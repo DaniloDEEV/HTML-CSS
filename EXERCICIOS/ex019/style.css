@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+/*
+em html e id    = css e #
+em html e class = css e .
+ */
+
+body {
+    background-color: rgb(132, 201, 125);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+        
+}
+
+h1{ color: rgb(62, 153, 52);
+}
+
+h1#principal{
+    text-align: center;
+    background-color: rgb(62, 153, 52);
+    color: aliceblue;
+}
+h1.h1full {
+    color: rgb(57, 255, 107);
+    
+}
+h2.h2full{
+    font-size: 20px
+}
+
+
+h2{color:rgb(34, 80, 3) ;
+
+}
